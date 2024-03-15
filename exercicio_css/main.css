@@ -47,6 +47,14 @@ section {
     padding: 16px 0;
 }
 
+#entertainment{
+    background-color: rgb(255, 232, 83);
+}
+
+#technology{
+    background-color: cornflowerblue;
+}
+
 section h2,
 .atricles article {
     margin-bottom: 16px;
